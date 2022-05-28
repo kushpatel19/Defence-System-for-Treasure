@@ -1,4 +1,4 @@
-//Team : The Titans
+//The Titans
 //Kush Patel  
 //Door 1- numeric password (123)
 //Door 2-Detecting proper distence by ulrasonic sensor (60-70 cm)
